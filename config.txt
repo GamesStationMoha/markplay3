@@ -1,6 +1,6 @@
-﻿token=
-owner=
-prefix=
-game=Ready!
-stayinchannel=true
+token=NTI2ODA1MjI2MDkxNzA4NDMx.DwKlHQ.9-5o9Y6tsDPMKRlhBteShUIJheU
+owner=368741794848178176
+prefix=3
+game=NiX Network Premium
+stayinchannel=false
 songinstatus=false
